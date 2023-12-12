@@ -1,0 +1,24 @@
+body
+{
+background-image: url("image/bg.jpeg");
+
+}
+h1,h2,h3,h4
+{
+color: purple;
+font-family: Times New Roman;
+text-align: center;
+}
+p
+{
+color:black;
+font-family: arial;
+line-height: 1.5;
+font-size: 18px;
+}
+
+table,th,td
+{
+border: 0px solid;
+
+}
